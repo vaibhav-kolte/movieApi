@@ -1,0 +1,102 @@
+[
+  {
+    "movieId": 1,
+    "title": "Avengers: Infinity War",
+    "director": "Russo Brothers",
+    "studio": "Marvel Studios",
+    "movieCast": ["RDJ", "Chris Evans", "Scarlett Johansson"],
+    "releaseYear": 2023,
+    "poster": "default.png",
+    "posterUrl": "url"
+  },
+  {
+    "movieId": 2,
+    "title": "The Dark Knight",
+    "director": "Christopher Nolan",
+    "studio": "Warner Bros.",
+    "movieCast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+    "releaseYear": 2008,
+    "poster": "dark_knight.png",
+    "posterUrl": "https://example.com/posters/dark_knight.png"
+  },
+  {
+    "movieId": 3,
+    "title": "Inception",
+    "director": "Christopher Nolan",
+    "studio": "Warner Bros.",
+    "movieCast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+    "releaseYear": 2010,
+    "poster": "inception.png",
+    "posterUrl": "https://example.com/posters/inception.png"
+  },
+  {
+    "movieId": 4,
+    "title": "The Matrix",
+    "director": "The Wachowskis",
+    "studio": "Warner Bros.",
+    "movieCast": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"],
+    "releaseYear": 1999,
+    "poster": "matrix.png",
+    "posterUrl": "https://example.com/posters/matrix.png"
+  },
+  {
+    "movieId": 5,
+    "title": "Titanic",
+    "director": "James Cameron",
+    "studio": "20th Century Fox",
+    "movieCast": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane"],
+    "releaseYear": 1997,
+    "poster": "titanic.png",
+    "posterUrl": "https://example.com/posters/titanic.png"
+  },
+  {
+    "movieId": 6,
+    "title": "Jurassic Park",
+    "director": "Steven Spielberg",
+    "studio": "Universal Pictures",
+    "movieCast": ["Sam Neill", "Laura Dern", "Jeff Goldblum"],
+    "releaseYear": 1993,
+    "poster": "jurassic_park.png",
+    "posterUrl": "https://example.com/posters/jurassic_park.png"
+  },
+  {
+    "movieId": 7,
+    "title": "Star Wars: Episode IV - A New Hope",
+    "director": "George Lucas",
+    "studio": "Lucasfilm",
+    "movieCast": ["Mark Hamill", "Harrison Ford", "Carrie Fisher"],
+    "releaseYear": 1977,
+    "poster": "star_wars.png",
+    "posterUrl": "https://example.com/posters/star_wars.png"
+  },
+  {
+    "movieId": 8,
+    "title": "Forrest Gump",
+    "director": "Robert Zemeckis",
+    "studio": "Paramount Pictures",
+    "movieCast": ["Tom Hanks", "Robin Wright", "Gary Sinise"],
+    "releaseYear": 1994,
+    "poster": "forrest_gump.png",
+    "posterUrl": "https://example.com/posters/forrest_gump.png"
+  },
+  {
+    "movieId": 9,
+    "title": "The Lion King",
+    "director": "Roger Allers, Rob Minkoff",
+    "studio": "Walt Disney Pictures",
+    "movieCast": ["Matthew Broderick", "Jeremy Irons", "James Earl Jones"],
+    "releaseYear": 1994,
+    "poster": "lion_king.png",
+    "posterUrl": "https://example.com/posters/lion_king.png"
+  },
+  {
+    "movieId": 10,
+    "title": "Gladiator",
+    "director": "Ridley Scott",
+    "studio": "DreamWorks Pictures",
+    "movieCast": ["Russell Crowe", "Joaquin Phoenix", "Connie Nielsen"],
+    "releaseYear": 2000,
+    "poster": "gladiator.png",
+    "posterUrl": "https://example.com/posters/gladiator.png"
+  }
+]
